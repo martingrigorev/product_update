@@ -10,8 +10,8 @@
 
 //    require_once( 'synclist-x.php' );
     
-	$consumer_key_to = 'ck_530c854d9ece6ffd45264cb7369064fd3e12771e';
-	$consumer_secret_to = 'cs_4cea36c123c4c2cb0554ccabc5b891abfa72febe';
+	$consumer_key_to = 'ck_530c854d9ece6ffd4sdfsdfsdf5264cb7369064fd3e12771e';
+	$consumer_secret_to = 'cs_4cea36c123c4c2cb055sdfsdfsdf4ccabc5b891abfa72febe';
 	
 	$options = array(
 		'debug'           => false,
